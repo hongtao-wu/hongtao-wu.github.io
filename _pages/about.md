@@ -30,7 +30,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 * [07/2023] One paper to appear in ICCV 2023.
 
 
-# Education Experiences
+## Education Experiences
 
 ### The Hong Kong University of Science and Technology (Guangzhou)
   M.Phil. student, Major in Robotics and Autonomous Systems, Sep 2022 ~ present.
