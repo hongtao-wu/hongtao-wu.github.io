@@ -21,7 +21,7 @@ repository               : "hongtao-wu/hongtao-wu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hongtao.png"
   name             : "HongtaoWu"
   pronouns         : # example: "she/her"  
   bio              : "M.Phil. Candidate in HKUST(GZ)"
