@@ -30,7 +30,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 * [07/2023] One paper to appear in ICCV 2023.
 
 
-## Education Experience
+## Education Experiences
 
 ### The Hong Kong University of Science and Technology (Guangzhou)
   M.Phil. student, Major in Robotics and Autonomous Systems, Sep 2022 ~ present.
@@ -47,5 +47,28 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 
 ## Publications
 
+### Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.
+  **Hongtao Wu**, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoyu Chen, Lei Zhu.
+  
+  European Conference on Computer Vision (ECCV), 2024.
 
+### Triplane-Smoothed Video Dehazing with CLIP-Enhanced Generalization.
+  Jingjing Ren, Tian Ye, Haoyu Chen, **Hongtao Wu**, Lei Zhu. 
+
+  International Journal of Computer Vision (IJCV), 2024.
+
+### Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal.
+  Yijun Yang, **Hongtao Wu**, Angelica I. Aviles-Rivero, Yulun Zhang, Jing Qin, Lei Zhu.
+  
+  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+
+### Mask-Guided Progressive Network for Joint Raindrop and Rain Streak Removal in Videos.
+  **Hongtao Wu**, Yijun Yang, Haoyu Chen, Jingjing Ren, Lei Zhu. 
+  
+  Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023.
+
+### Snow Removal in Video: A New Dataset and A Novel Method.
+  Haoyu Chen, Jingjing Ren, Jinjin Gu, **Hongtao Wu**, Xuequan Lu, Haoming Cai, Lei Zhu.
+  
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
 
