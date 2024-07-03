@@ -50,7 +50,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 ### Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.
   **Hongtao Wu**, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoyu Chen, Lei Zhu.
   
-  European Conference on Computer Vision (ECCV), 2024. [code]
+  European Conference on Computer Vision (ECCV), 2024. [[code]](https://github.com/TonyHongtaoWu/SemiVDN)
 
 ### Triplane-Smoothed Video Dehazing with CLIP-Enhanced Generalization.
   Jingjing Ren, Tian Ye, Haoyu Chen, **Hongtao Wu**, Lei Zhu. 
