@@ -32,18 +32,15 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 
 ## Education Experience
 
-* The Hong Kong University of Science and Technology (Guangzhou)
+#### The Hong Kong University of Science and Technology (Guangzhou)
+  M.Phil. student, Major in Robotics and Autonomous Systems, Sep 2022 ~ present.
 
-    M.Phil. student, Major in Robotics and Autonomous Systems, Sep 2022 ~ present.
 
+#### Tianjin University
+  B.Eng. student, Major in Measurement and Control Technology and Instruments, Sep 2018 - Jul 2022.
 
-* Tianjin University
-
-    B.Eng. student, Major in Measurement and Control Technology and Instruments, Sep 2018 - Jul 2022.
-
-* Zhenhai High School of Zhejiang
-
-    Excellent high school graduates, Sep 2015 - Jul 2018.
+#### Zhenhai High School of Zhejiang
+  Excellent high school graduates, Sep 2015 - Jul 2018.
 
 
 
