@@ -57,17 +57,17 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 
   International Journal of Computer Vision (IJCV), 2024.
 
-### Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal.
+### [Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal.](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Genuine_Knowledge_from_Practice_Diffusion_Test-Time_Adaptation_for_Video_Adverse_CVPR_2024_paper.html)
   Yijun Yang, **Hongtao Wu**, Angelica I. Aviles-Rivero, Yulun Zhang, Jing Qin, Lei Zhu.
   
   Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
-### Mask-Guided Progressive Network for Joint Raindrop and Rain Streak Removal in Videos.
+### [Mask-Guided Progressive Network for Joint Raindrop and Rain Streak Removal in Videos.](https://dl.acm.org/doi/10.1145/3581783.3612001)
   **Hongtao Wu**, Yijun Yang, Haoyu Chen, Jingjing Ren, Lei Zhu. 
   
-  Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023.
+  Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023. [[code]](https://github.com/TonyHongtaoWu/ViMP-Net)
 
-### Snow Removal in Video: A New Dataset and A Novel Method.
+### [Snow Removal in Video: A New Dataset and A Novel Method.](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Snow_Removal_in_Video_A_New_Dataset_and_A_Novel_ICCV_2023_paper.html)
   Haoyu Chen, Jingjing Ren, Jinjin Gu, **Hongtao Wu**, Xuequan Lu, Haoming Cai, Lei Zhu.
   
   IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
