@@ -37,7 +37,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 </p>
 
 ### [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
-M.Phil. student, Major in Robotics and Autonomous Systems, Sep 2022 ~ present.
+M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ present.
 
 
 
@@ -46,7 +46,7 @@ M.Phil. student, Major in Robotics and Autonomous Systems, Sep 2022 ~ present.
 </p>
 
 ### [Tianjin University](https://www.tju.edu.cn/)
-B.Eng. student, Major in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
+B.Eng. in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
 
 
 
