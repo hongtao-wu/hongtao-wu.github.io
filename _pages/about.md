@@ -46,7 +46,7 @@ M.Phil. student, Major in Robotics and Autonomous Systems, Sep 2022 ~ present.
 </p>
 
 ### [Tianjin University](https://www.tju.edu.cn/)
-B.Eng. student, Major in Measurement and Control Technology and Instruments, Sep 2018 - Jul 2022.
+B.Eng. student, Major in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
 
 <br>
 
