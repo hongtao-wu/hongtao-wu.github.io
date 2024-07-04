@@ -33,7 +33,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 ## Education Experiences
 
 <p>
-<img src="../images/HKUST.svg" width="70" align="left" />
+<img src="../images/HKUST.svg" width="60" align="left" />
 </p>
 
 ### [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
@@ -41,7 +41,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 
 
 <p>
-<img src="../images/tju.jpg" width="70" align="left" />
+<img src="../images/tju.jpg" width="60" align="left" />
 </p>
 
 ### [Tianjin University](https://www.tju.edu.cn/)
@@ -49,7 +49,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 
 
 <p>
-<img src="../images/zhzx.png" width="70" align="left" />
+<img src="../images/zhzx.png" width="60" align="left" />
 </p>
 
 ### [Zhenhai High School of Zhejiang](http://www.zhzx.net.cn/)  
