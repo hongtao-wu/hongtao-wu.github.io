@@ -33,7 +33,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 ## Education Experiences
 
 <p>
-<img src="../images/HKUST.svg" width="70" style="margin-right: 10px;" align="left" />
+<img src="../images/HKUST.svg" width="70" style="margin-right: 12px;" align="left" />
 </p>
 
 ### [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
@@ -42,7 +42,7 @@ M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ present.
 
 
 <p>
-<img src="../images/tju.jpg" width="70" style="margin-right: 10px;" align="left" />
+<img src="../images/tju.jpg" width="70" style="margin-right: 12px;" align="left" />
 </p>
 
 ### [Tianjin University](https://www.tju.edu.cn/)
@@ -51,7 +51,7 @@ B.Eng. in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
 
 
 <p>
-<img src="../images/zhzx.png" width="70" style="margin-right: 10px;" align="left" />
+<img src="../images/zhzx.png" width="70" style="margin-right: 12px;" align="left" />
 </p>
 
 ### [Zhenhai High School of Zhejiang](http://www.zhzx.net.cn/)
