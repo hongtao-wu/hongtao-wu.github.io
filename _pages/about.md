@@ -42,7 +42,7 @@ M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ present.
 
 
 <p>
-<img src="../images/tju.jpg" width="70" style="margin-right: 12px;" align="left" />
+<img src="../images/TJU_logo.png" width="70" style="margin-right: 12px;" align="left" />
 </p>
 
 ### [Tianjin University](https://www.tju.edu.cn/)
