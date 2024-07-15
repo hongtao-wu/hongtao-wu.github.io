@@ -36,7 +36,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 <img src="../images/HKUST.svg" width="70" style="margin-right: 12px;" align="left" />
 </p>
 
-### [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
+### [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)
 M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ present.
 
 
