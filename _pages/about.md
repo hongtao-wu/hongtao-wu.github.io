@@ -23,7 +23,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 
 ## News
 
-* [07/2024] One first-author paper to appear in ACM MM 2024.
+* [07/2024] One first-author paper to appear in ACM MM 2024 with oral presentation (3.97%).
 * [07/2024] One first-author paper to appear in ECCV 2024.
 * [06/2024] One paper to appear in IJCV 2024.
 * [02/2024] One paper to appear in CVPR 2024.
@@ -69,7 +69,7 @@ Excellent high school graduates, Sep 2015 - Jul 2018.
 ### [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining.](https://hongtao-wu.github.io//)
   **Hongtao Wu**, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, and Lei Zhu.
 
-  Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2023.
+  Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2023.(Oral)
 
 ### [Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.](https://hongtao-wu.github.io//)
   **Hongtao Wu**, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoyu Chen, Lei Zhu.
