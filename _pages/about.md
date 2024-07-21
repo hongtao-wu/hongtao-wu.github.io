@@ -11,6 +11,8 @@ redirect_from:
 
 My name is Hongtao Wu. I received my bachelor degree in Measurement and Control Technology and Instruments from the [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) (National Pilot College) at [Tianjin University](https://www.tju.edu.cn/), and I used to be a member of the honours programme ([Engineering Science Experimental Class](https://zs.tju.edu.cn/ym21/xyzy1/jmyqygdzgcxy.htm), now known as Wang Shourong Class) in college, where I was supervised by Prof. [Hui Yu](https://faculty.tju.edu.cn/yuhui/en/index.htm#shjj) and Prof. [Chunguang Hu](https://scholar.google.com/citations?user=Xgr2TsYAAAAJ&hl=en) in undergraduate graduation thesis and National College Student Innovation Program. I am currently a second year M.Phil. student under the supervision of Prof. [Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). Now, I’m focusing on video restoration and medical image analysis, in partnership with PhD candidate [Yijun Yang](https://yijun-yang.github.io/).
 
+I am currently exploring potential opportunities for internships and 2025 Spring&Fall PhD positions.
+
 ## Research Interests
 
 * Video restoration under real-world adverse conditions.
@@ -69,7 +71,7 @@ Excellent high school graduates, Sep 2015 - Jul 2018.
 ### [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining.](https://hongtao-wu.github.io//)
   **Hongtao Wu**, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, and Lei Zhu.
 
-  Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2023.(Oral)
+  Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2023. **(Oral)**
 
 ### [Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.](https://hongtao-wu.github.io//)
   **Hongtao Wu**, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoyu Chen, Lei Zhu.
