@@ -72,7 +72,8 @@ Excellent high school graduates, Sep 2015 - Jul 2018.
 ### [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining.](https://hongtao-wu.github.io//)
   **Hongtao Wu**, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, and Lei Zhu.
 
-  Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2023. **(Oral)**
+  Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2023. <span style="color:red;">**(Oral)**</span> [[code]](https://hongtao-wu.github.io/)
+
 
 ### [Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.](https://hongtao-wu.github.io//)
   **Hongtao Wu**, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoyu Chen, Lei Zhu.
