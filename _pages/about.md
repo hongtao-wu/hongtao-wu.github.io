@@ -37,7 +37,7 @@ My name is Hongtao Wu. I received my bachelor degree in Measurement and Control 
 ## Education Experiences
 
 <p>
-<img src="../images/HKUST_logo.png" width="45" style="margin-left: 20px; margin-right: 20px;" align="left" />
+<img src="../images/HKUST_logo.png" width="40" style="margin-left: 16px; margin-right: 20px;" align="left" />
 </p>
 
 ### [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)
