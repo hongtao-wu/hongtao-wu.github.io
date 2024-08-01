@@ -72,7 +72,7 @@ Excellent high school graduates, Sep 2015 - Jul 2018.
 
 ## Publications
 
-### [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining.](https://hongtao-wu.github.io//)
+### [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining.](https://arxiv.org/abs/2407.21773)
   **Hongtao Wu**, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, and Lei Zhu.
 
   Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2024. <span style="color:red;">**(Oral)**</span> [[code]](https://github.com/TonyHongtaoWu/RainMamba)
