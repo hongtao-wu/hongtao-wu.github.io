@@ -83,7 +83,7 @@ Excellent high school graduates, Sep 2015 - Jul 2018.
   
   European Conference on Computer Vision (ECCV), 2024. [[code]](https://github.com/TonyHongtaoWu/SemiVDN)
 
-### [Triplane-Smoothed Video Dehazing with CLIP-Enhanced Generalization.](https://hongtao-wu.github.io//)
+### [Triplane-Smoothed Video Dehazing with CLIP-Enhanced Generalization.](https://link.springer.com/article/10.1007/s11263-024-02161-0)
   Jingjing Ren, Tian Ye, Haoyu Chen, **Hongtao Wu**, Lei Zhu. 
 
   International Journal of Computer Vision (IJCV), 2024.
