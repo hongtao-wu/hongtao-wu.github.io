@@ -22,9 +22,9 @@ repository               : "hongtao-wu/hongtao-wu.github.io"
 author:
   # Biographic information
   avatar           : "hongtao.png"
-  name             : "Hongtao Wu"
+  name             : "Hunter, Hongtao Wu"
   pronouns         : # example: "she/her"  
-  bio              : "M.Phil. Candidate in HKUST(GZ)"
+  bio              : "M.Phil. in HKUST(GZ)"
   location         : "Guangzhou China"
   employer         : "The Hong Kong University of Science and Technology"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=aJQTfP0AAAAJ"
   impactstory      : # URL
- # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0007-4863-5119"
   semantic         : # URL
  # researchgate     : # URL
 
