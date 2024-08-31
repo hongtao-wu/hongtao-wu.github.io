@@ -24,9 +24,9 @@ author:
   avatar           : "hongtao.png"
   name             : "Hunter, Hongtao Wu"
   pronouns         : # example: "she/her"  
-  bio              : "M.Phil. in HKUST(GZ)"
-  location         : "Guangzhou China"
-  employer         : "The Hong Kong University of Science and Technology"
+  bio              : "M.Phil. & Researcher @HKUST(GZ)"
+  location         : "Guangzhou, China"
+  employer         : "HKUST(GZ)"
   uri              : # URL
   email            : "hwu375@connect.hkust-gz.edu.cn" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=aJQTfP0AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0007-4863-5119"
+  # orcid            : "http://orcid.org/0009-0007-4863-5119"
   semantic         : # URL
  # researchgate     : # URL
 
