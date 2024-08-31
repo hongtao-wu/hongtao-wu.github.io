@@ -1,5 +1,11 @@
-
-
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## Biography
 
 My name is Hongtao Wu. I received my bachelor degree in Measurement and Control Technology and Instruments from the [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) (National Pilot College) at [Tianjin University](https://www.tju.edu.cn/).
