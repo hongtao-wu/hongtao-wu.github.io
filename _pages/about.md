@@ -78,7 +78,7 @@ Excellent high school graduates, Sep 2015 - Jul 2018.
   Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2024. <span style="color:red;">**(Oral)**</span> [[code]](https://github.com/TonyHongtaoWu/RainMamba)
 
 
-### [Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.](https://hongtao-wu.github.io//)
+### [Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01500.pdf)
   **Hongtao Wu**, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoyu Chen, Lei Zhu.
   
   European Conference on Computer Vision (ECCV), 2024. [[code]](https://github.com/TonyHongtaoWu/SemiVDN)
