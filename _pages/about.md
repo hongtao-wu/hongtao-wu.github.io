@@ -44,7 +44,7 @@ Currently, I am a M.Phil. student under the supervision of Prof. [Lei Zhu](https
 </p>
 
 ### [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)
-M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ present.
+M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ Oct 2024.
 
 
 
@@ -53,7 +53,7 @@ M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ present.
 </p>
 
 ### [Tianjin University](https://www.tju.edu.cn/)
-B.Eng. in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
+B.Eng. in Measurement & Control Technology and Instruments (A+), Sep 2018 - Jul 2022.
 
 
 
@@ -62,7 +62,7 @@ B.Eng. in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
 </p>
 
 ### [Zhenhai High School of Zhejiang](http://www.zhzx.net.cn/)
-Excellent high school graduates, Sep 2015 - Jul 2018.
+Sep 2015 - Jul 2018.
 
 
 
@@ -78,7 +78,7 @@ Excellent high school graduates, Sep 2015 - Jul 2018.
   Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2024. <span style="color:red;">**(Oral)**</span> [[code]](https://github.com/TonyHongtaoWu/RainMamba)
 
 
-### [Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01500.pdf)
+### [Semi-Supervised Video Desnowing Network via Temporal Decoupling Experts and Distribution-Driven Contrastive Regularization.](https://link.springer.com/chapter/10.1007/978-3-031-72684-2_5)
   **Hongtao Wu**, Yijun Yang, Angelica Aviles-Rivero, Jingjing Ren, Sixiang Chen, Haoyu Chen, Lei Zhu.
   
   European Conference on Computer Vision (ECCV), 2024. [[code]](https://github.com/TonyHongtaoWu/SemiVDN)
