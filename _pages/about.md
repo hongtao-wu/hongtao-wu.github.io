@@ -26,6 +26,7 @@ Currently, I am a M.Phil. student under the supervision of Prof. [Lei Zhu](https
 
 ## News
 
+* [02/2025] One paper to appear in CVPR 2025.
 * [07/2024] I passed my oral defense for the M.Phil. degree.
 * [07/2024] One first-author paper to appear in ACM MM 2024 with Oral presentation (3.97%).
 * [07/2024] One first-author paper to appear in ECCV 2024.
