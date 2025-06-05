@@ -8,9 +8,8 @@ redirect_from:
 ---
 ## Biography
 
-My name is Hongtao Wu. I received my bachelor degree in Measurement and Control Technology and Instruments from the [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) (National Pilot College) at [Tianjin University](https://www.tju.edu.cn/).
-During my undergraduate studies, I was a member of the Honors Program ([Engineering Science Experimental Class](https://zs.tju.edu.cn/ym21/xyzy1/jmyqygdzgcxy.htm), now known as the Wang Shourong Class). 
-Currently, I am a M.Phil. student under the supervision of Prof. [Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). 
+I am currently a first year Ph.D. student in the Department of Electronic Engineering, [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/). Before that, I received a M.Phil. degree under the supervision of Prof. [Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). Also, I received my bachelor degree in Measurement and Control Technology and Instruments from the [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) at [Tianjin University](https://www.tju.edu.cn/).
+
 
 
 
@@ -39,6 +38,15 @@ Currently, I am a M.Phil. student under the supervision of Prof. [Lei Zhu](https
 ## Education Experiences
 
 <p>
+<img src="../images/cuhk_logo.png" width="70" style="margin-left: 12px; margin-right: 20px;" align="left" />
+</p>
+
+### [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html)
+Ph.D. in Electronic Engineering, Aug. 2025 to Jul. 2028 (expected) 
+
+
+
+<p>
 <img src="../images/HKUST_logo.png" width="43" style="margin-left: 15px; margin-right: 20px;" align="left" />
 </p>
 
@@ -56,20 +64,14 @@ B.Eng. in Measurement & Control Technology and Instruments (A+), Sep 2018 - Jul 
 
 
 
-<p>
-<img src="../images/zhzx.png" width="70" style="margin-right: 12px;" align="left" />
-</p>
-
-### [Zhenhai High School of Zhejiang](http://www.zhzx.net.cn/)
-Sep 2015 - Jul 2018.
-
-
-
-
-
 
 
 ## Publications
+
+### [SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization.](https://hongtao-wu.github.io/)
+  Jianyu Lai, Sixiang Chen, Yunlong Lin, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, **Hongtao Wu**, Weiming Wang, and Lei Zhu.
+
+  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 
 ### [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining.](https://arxiv.org/abs/2407.21773)
   **Hongtao Wu**, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, and Lei Zhu.
@@ -103,5 +105,5 @@ Sep 2015 - Jul 2018.
   IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
 
 
-###  1 **_CVPR_**  &nbsp;&nbsp;&nbsp;  1 **_ICCV_**  &nbsp;&nbsp;&nbsp;  1 **_ECCV_**  &nbsp;&nbsp;&nbsp;  1 **_IJCV_**  &nbsp;&nbsp;&nbsp;  2 **_ACM MM_** 
+###  2 **_CVPR_**  &nbsp;&nbsp;&nbsp;  1 **_ICCV_**  &nbsp;&nbsp;&nbsp;  1 **_ECCV_**  &nbsp;&nbsp;&nbsp;  1 **_IJCV_**  &nbsp;&nbsp;&nbsp;  2 **_ACM MM_** 
 
