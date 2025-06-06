@@ -68,7 +68,7 @@ B.Eng. in Measurement & Control Technology and Instruments (A+), Sep 2018 - Jul 
 
 ## Publications
 
-### [SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization.](https://hongtao-wu.github.io/)
+### [SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization.](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_SnowMaster_Comprehensive_Real-world_Image_Desnowing_via_MLLM_with_Multi-Model_Feedback_CVPR_2025_paper.html)
   Jianyu Lai, Sixiang Chen, Yunlong Lin, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, **Hongtao Wu**, Weiming Wang, and Lei Zhu.
 
   Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
