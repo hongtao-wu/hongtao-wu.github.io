@@ -8,9 +8,7 @@ redirect_from:
 ---
 ## Biography
 
-I am currently a first year Ph.D. student in the Department of Electronic Engineering, [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/). Before that, I received a M.Phil. degree under the supervision of Prof. [Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). Also, I received my bachelor degree in Measurement and Control Technology and Instruments from the [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) at [Tianjin University](https://www.tju.edu.cn/).
-
-
+I am currently a first year Ph.D. student in the Department of Electronic Engineering, [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/). Before that, I received a M.Phil. degree under the supervision of Prof. [Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). 
 
 
 ## Research Interests
