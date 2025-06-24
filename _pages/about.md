@@ -62,6 +62,15 @@ B.Eng. in Measurement & Control Technology and Instruments (A+), Sep 2018 - Jul 
 
 
 
+## Awards
+
+* PG Scholarship of CUHK, 2025-2028
+* PG Scholarship of HKUST(GZ), 2022-2024
+* Oral Presentation (3.97%) in ACM International Conference on Multimedia (ACM MM), 2024
+* First-Class Scholarship of Tianjin University, 2022
+* Excellent Conclusion of National College Students’ Innovation& Entrepreneurship Training Program, 2021
+
+
 
 
 ## Publications
