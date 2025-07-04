@@ -74,7 +74,7 @@ B.Eng. in Measurement & Control Technology and Instruments (A+), Sep 2018 - Jul 
 
 ### [CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboratio](https://hongtao-wu.github.io/)
 
-Zheng Wei&ast;, **Hongtao Wu&ast;**, lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui, Maneesh Agrawala, Huamin Qu, Anyi Rao 
+Zheng Wei&#42;, **Hongtao Wu&#42;**, lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui, Maneesh Agrawala, Huamin Qu, Anyi Rao 
 
 User Interface Software and Technology (UIST), 2025
 
