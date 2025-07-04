@@ -25,6 +25,7 @@ Before that, I received my M.Phil. degree under the supervision of Prof. [Lei Zh
 
 ## News
 
+* [07/2025] One paper to appear in UIST 2025.
 * [02/2025] One paper to appear in CVPR 2025.
 * [07/2024] I passed my oral defense for the M.Phil. degree.
 * [07/2024] One first-author paper to appear in ACM MM 2024 with Oral presentation (3.97%).
@@ -68,6 +69,14 @@ B.Eng. in Measurement & Control Technology and Instruments (A+), Sep 2018 - Jul 
 
 
 ## Publications
+
+\* Equal Contribution
+
+### [CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboratio](https://hongtao-wu.github.io/)
+
+Zheng Wei&ast;, **Hongtao Wu&ast;**, lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui, Maneesh Agrawala, Huamin Qu, Anyi Rao 
+
+User Interface Software and Technology (UIST), 2025
 
 ### [SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization.](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_SnowMaster_Comprehensive_Real-world_Image_Desnowing_via_MLLM_with_Multi-Model_Feedback_CVPR_2025_paper.html)
   Jianyu Lai, Sixiang Chen, Yunlong Lin, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, **Hongtao Wu**, Weiming Wang, and Lei Zhu.
