@@ -51,7 +51,7 @@ Ph.D. in Electronic Engineering, Aug. 2025 to Jul. 2028 (expected)
 <img src="../images/HKUST_logo.png" width="43" style="margin-left: 15px; margin-right: 20px;" align="left" />
 </p>
 
-### [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)
+### [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)
 M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ Oct 2024.
 
 
@@ -60,7 +60,7 @@ M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ Oct 2024.
 <img src="../images/TJU_logo.png" width="70" style="margin-right: 12px;" align="left" />
 </p>
 
-### [Tianjin University](https://www.tju.edu.cn/)
+### [Tianjin University (Peiyang University)](https://www.tju.edu.cn/)
 B.Eng. in Measurement & Control Technology and Instruments (A+), Sep 2018 - Jul 2022.
 
 
