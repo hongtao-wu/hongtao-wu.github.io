@@ -25,14 +25,15 @@ Before that, I received my M.Phil. degree under the supervision of Prof. [Lei Zh
 
 ## News
 
-* [07/2025] One first-author paper to appear in ACM UIST 2025.
+* [02/2024] Three papers to appear in ACM MM 2025.
+* [07/2025] One paper to appear in ACM UIST 2025.
 * [02/2025] One paper to appear in CVPR 2025.
 * [07/2024] I passed my oral defense for the M.Phil. degree.
-* [07/2024] One first-author paper to appear in ACM MM 2024 with Oral presentation (3.97%).
-* [07/2024] One first-author paper to appear in ECCV 2024.
+* [07/2024] One paper to appear in ACM MM 2024 with Oral presentation (3.97%).
+* [07/2024] One paper to appear in ECCV 2024.
 * [06/2024] One paper to appear in IJCV 2024.
 * [02/2024] One paper to appear in CVPR 2024.
-* [07/2023] One first-author paper to appear in ACM MM 2023. 
+* [07/2023] One paper to appear in ACM MM 2023. 
 * [07/2023] One paper to appear in ICCV 2023.
 
 
