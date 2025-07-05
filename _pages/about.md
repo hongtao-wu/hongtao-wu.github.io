@@ -73,11 +73,14 @@ B.Eng. in Measurement & Control Technology and Instruments (A+), Sep 2018 - Jul 
 
 \* Equal Contribution
 
+
+
+
 ### [CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboratio](https://hongtao-wu.github.io/)
 
 Zheng Wei&#42;, **Hongtao Wu&#42;**, lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui, Maneesh Agrawala, Huamin Qu, Anyi Rao 
 
-User Interface Software and Technology (UIST), 2025. (Oral)
+User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://github.com/TonyHongtaoWu/CineVision)
 
 ### [SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization.](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_SnowMaster_Comprehensive_Real-world_Image_Desnowing_via_MLLM_with_Multi-Model_Feedback_CVPR_2025_paper.html)
   Jianyu Lai, Sixiang Chen, Yunlong Lin, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, **Hongtao Wu**, Weiming Wang, and Lei Zhu.
