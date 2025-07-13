@@ -13,6 +13,8 @@ Also, I am a visiting student in the Medical Artificial Intelligence Laboratory 
 Before that, I received my M.Phil. degree under the supervision of Prof. [Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), in 2024, and the B.Eng. degree from [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) at [Tianjin University](https://www.tju.edu.cn/), in 2022.
 
 
+Thanks for your reading! Welcome to contact me about research collaboration, please don't hesitate to drop me emails if you are interested in my research.
+
 ## Research Interests
 
 * Video restoration under real-world adverse conditions.
