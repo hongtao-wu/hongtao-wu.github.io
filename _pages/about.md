@@ -89,10 +89,16 @@ Zheng Wei&#42;, **Hongtao Wu&#42;**, lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui
 
 User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://github.com/TonyHongtaoWu/CineVision)
 
+
+<!--
 ### [SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization.](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_SnowMaster_Comprehensive_Real-world_Image_Desnowing_via_MLLM_with_Multi-Model_Feedback_CVPR_2025_paper.html)
   Jianyu Lai, Sixiang Chen, Yunlong Lin, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, **Hongtao Wu**, Weiming Wang, and Lei Zhu.
 
   Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+-->
+
+
 
 ### [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining.](https://arxiv.org/abs/2407.21773)
   **Hongtao Wu**, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, and Lei Zhu.
@@ -105,6 +111,9 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
   
   European Conference on Computer Vision (ECCV), 2024. [[code]](https://github.com/TonyHongtaoWu/SemiVDN)
 
+
+
+<!--
 ### [Triplane-Smoothed Video Dehazing with CLIP-Enhanced Generalization.](https://link.springer.com/article/10.1007/s11263-024-02161-0)
   Jingjing Ren, Tian Ye, Haoyu Chen, **Hongtao Wu**, Lei Zhu. 
 
@@ -115,11 +124,15 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
   
   Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
+-->
+
+
 ### [Mask-Guided Progressive Network for Joint Raindrop and Rain Streak Removal in Videos.](https://dl.acm.org/doi/10.1145/3581783.3612001)
   **Hongtao Wu**, Yijun Yang, Haoyu Chen, Jingjing Ren, Lei Zhu. 
   
   Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023. [[code]](https://github.com/TonyHongtaoWu/ViMP-Net)
-
+  
+<!--
 ### [Snow Removal in Video: A New Dataset and A Novel Method.](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Snow_Removal_in_Video_A_New_Dataset_and_A_Novel_ICCV_2023_paper.html)
   Haoyu Chen, Jingjing Ren, Jinjin Gu, **Hongtao Wu**, Xuequan Lu, Haoming Cai, Lei Zhu.
   
@@ -127,7 +140,7 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
 
 
 ###  2 **_CVPR_**  &nbsp;&nbsp;&nbsp;  1 **_ICCV_**  &nbsp;&nbsp;&nbsp;  1 **_ECCV_**  &nbsp;&nbsp;&nbsp;  1 **_IJCV_**  &nbsp;&nbsp;&nbsp;  2 **_ACM MM_** 
-
+-->
 
 ## Awards
 
