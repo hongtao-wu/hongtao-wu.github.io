@@ -91,6 +91,17 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
 
 
 <!--
+### [SAMVSR: Leveraging Semantic Priors to Zone-Focused Mamba for Video Snow Removal](https://hongtao-wu.github.io/)
+
+**Hongtao Wu&#42;**, Yifeng Wu&#42;, Jiaxuan Jiang, Chengyu Wu, Hong Wang, Yefeng Zheng.
+
+Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025. [[code]](https://hongtao-wu.github.io/)
+
+-->
+
+
+
+<!--
 ### [SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization.](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_SnowMaster_Comprehensive_Real-world_Image_Desnowing_via_MLLM_with_Multi-Model_Feedback_CVPR_2025_paper.html)
   Jianyu Lai, Sixiang Chen, Yunlong Lin, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, **Hongtao Wu**, Weiming Wang, and Lei Zhu.
 
