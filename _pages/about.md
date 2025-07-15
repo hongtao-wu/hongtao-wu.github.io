@@ -76,7 +76,7 @@ Visiting Student
 
 
 
-## Publications
+## Selected Publications
 
 \* Equal Contribution
 
