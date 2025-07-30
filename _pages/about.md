@@ -81,6 +81,12 @@ Visiting Student
 \* Equal Contribution
 
 
+### [SAMVSR: Leveraging Semantic Priors to Zone-Focused Mamba for Video Snow Removal](https://hongtao-wu.github.io/)
+
+**Hongtao Wu&#42;**, Yifeng Wu&#42;, Jiaxuan Jiang, Chengyu Wu, Hong Wang, Yefeng Zheng.
+
+Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025. [[code]](https://hongtao-wu.github.io/)
+
 
 
 ### [CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboratio](https://hongtao-wu.github.io/)
@@ -90,14 +96,6 @@ Zheng Wei&#42;, **Hongtao Wu&#42;**, lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui
 User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://github.com/TonyHongtaoWu/CineVision)
 
 
-<!--
-### [SAMVSR: Leveraging Semantic Priors to Zone-Focused Mamba for Video Snow Removal](https://hongtao-wu.github.io/)
-
-**Hongtao Wu&#42;**, Yifeng Wu&#42;, Jiaxuan Jiang, Chengyu Wu, Hong Wang, Yefeng Zheng.
-
-Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025. [[code]](https://hongtao-wu.github.io/)
-
--->
 
 
 
