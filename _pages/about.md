@@ -91,7 +91,7 @@ Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 202
 
 ### [CineVision: An Interactive Pre-visualization Storyboard System for Director–Cinematographer Collaboratio](https://hongtao-wu.github.io/)
 
-Zheng Wei&#42;, **Hongtao Wu&#42;**, lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui, Maneesh Agrawala, Huamin Qu, Anyi Rao 
+Zheng Wei&#42;, **Hongtao Wu&#42;**, Lvmin Zhang, Xian Xu, Yefeng Zheng, Pan Hui, Maneesh Agrawala, Huamin Qu, Anyi Rao 
 
 User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://github.com/TonyHongtaoWu/CineVision)
 
