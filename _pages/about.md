@@ -9,7 +9,7 @@ redirect_from:
 ## Biography
 
 I am currently a first year Ph.D. student in the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/). 
-Also, I am a visiting student in the Medical Artificial Intelligence Laboratory at [Westlake University](https://en.westlake.edu.cn/), supervised by [Prof. Yefeng Zheng (IEEE & AIMBE Fellow)](https://sites.google.com/site/yefengzheng/).
+Also, I was a visiting student in the Medical Artificial Intelligence Laboratory at [Westlake University](https://en.westlake.edu.cn/), supervised by [Prof. Yefeng Zheng (IEEE & AIMBE Fellow)](https://sites.google.com/site/yefengzheng/), in 2025.
 Before that, I received my M.Phil. degree under the supervision of [Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) and [Prof. Anyi Rao](https://anyirao.com/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), in 2024, and the B.Eng. degree from [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) at [Tianjin University](https://www.tju.edu.cn/), in 2022.
 
 My research interests mainly lie in Low-level Vision, Generative Modeling, and Medical Image Analysis.
