@@ -76,16 +76,13 @@ B.Eng. in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
 ## Internship Experiences
 
 ### [Medical Artificial Intelligence Laboratory, Westlake University](https://medai.lab.westlake.edu.cn/)
-
 Advisor: [Prof. Yefeng Zheng](https://sites.google.com/site/yefengzheng/) and [Prof. Hong Wang](https://hongwang01.github.io/)
 
 ### [Multimedia Creativity Lab (MMLab), HKUST](https://mmlab-hkust.github.io/)
-
 Advisor: [Prof. Anyi Rao](https://anyirao.com/)
 
 
 ### [VIP Lab, HKUSTGZ](https://sites.google.com/site/indexlzhu/team)
-
 Advisor: [Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) and [Dr. Yijun Yang](https://yijun-yang.github.io/)
 
 
