@@ -82,7 +82,7 @@ Advisor: [Prof. Yefeng Zheng](https://sites.google.com/site/yefengzheng/) and [P
 Advisor: [Prof. Anyi Rao](https://anyirao.com/)
 
 
-### [VIP Lab, HKUSTGZ](https://sites.google.com/site/indexlzhu/team)
+### [VIP Lab, HKUST(GZ)](https://sites.google.com/site/indexlzhu/team)
 Advisor: [Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) and [Dr. Yijun Yang](https://yijun-yang.github.io/)
 
 
