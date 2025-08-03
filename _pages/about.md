@@ -182,9 +182,3 @@ I remain deeply indebted to the intellectual generosity of mentors and colleague
 
 
 
-
-</body>
-
-<a href="https://clustrmaps.com/site/1c7fy"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=sH1-ZJHZshkCInDov2IoBRogLjPcf3YCslEKDOyVnqc&cl=ffffff" /></a>
-
-</body>
