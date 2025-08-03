@@ -170,7 +170,7 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
 
 ## Professional Activities
 
-Conference Reviewer: NeurIPS, CVPR, ICCV, ECCV, ACM MM, AAAI, MICCAI.
+Conference Reviewer: CVPR, ICCV, ECCV, ACM MM, AAAI, MICCAI.
 
 Journal Reviewer: TMI
 
