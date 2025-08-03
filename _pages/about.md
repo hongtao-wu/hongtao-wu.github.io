@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a first year Ph.D. student in the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/). 
 Also, I am a visiting student in the Medical Artificial Intelligence Laboratory at [Westlake University](https://en.westlake.edu.cn/), supervised by [Prof. Yefeng Zheng (IEEE & AIMBE Fellow)](https://sites.google.com/site/yefengzheng/).
-Before that, I received my M.Phil. degree under the supervision of [Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) and [Prof. Anyi Rao](https://anyirao.com/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), in 2024, and the B.Eng. degree from [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) at [Tianjin University](https://www.tju.edu.cn/), in 2022.
+Before that, I received my M.Phil. degree under the supervision of [Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) and [Prof. Anyi Rao](https://anyirao.com/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), in 2024, and the B.Eng. degree from [School of Precision Instrument and Opto-Electronics Engineering](https://www.tju.edu.cn/info/1044/1251.htm) at [Tianjin University](https://www.tju.edu.cn/), in 2022.
 
 
 Thanks for your reading! Welcome to contact me about research collaboration, please don't hesitate to drop me emails if you are interested in my research.
@@ -45,7 +45,7 @@ Thanks for your reading! Welcome to contact me about research collaboration, ple
 <img src="../images/cuhk_logo.png" width="70" style="margin-left: 12px; margin-right: 20px;" align="left" />
 </p>
 
-### [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html)
+### [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
 Ph.D. in Electronic Engineering, Aug. 2025 to Jul. 2028 (expected) 
 
 
@@ -54,9 +54,8 @@ Ph.D. in Electronic Engineering, Aug. 2025 to Jul. 2028 (expected)
 <img src="../images/HKUST_logo.png" width="43" style="margin-left: 15px; margin-right: 20px;" align="left" />
 </p>
 
-### [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)
+### [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/)
 M.Phil. in Robotics and Autonomous Systems, Sep 2022 ~ Oct 2024.
-
 
 
 <p>
@@ -75,6 +74,7 @@ B.Eng. in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
 ### [Multimedia Creativity Lab (MMLab), HKUST](https://mmlab-hkust.github.io/)
 
 
+### [VIP Lab, HKUSTGZ](https://sites.google.com/site/indexlzhu/team)
 
 
 ## Selected Publications
