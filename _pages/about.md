@@ -27,6 +27,7 @@ Thanks for your reading! Welcome to contact me about research collaboration, ple
 
 ## News
 
+* [08/2025]  I start my Ph.D. journey at CUHK.
 * [07/2025] Three papers accepted by ACM MM 2025.
 * [07/2025] One paper accepted by ACM UIST 2025 with Oral presentation.
 * [02/2025] One paper accepted by CVPR 2025.
@@ -70,11 +71,16 @@ B.Eng. in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
 
 ### [Medical Artificial Intelligence Laboratory, Westlake University](https://medai.lab.westlake.edu.cn/)
 
+Advisor: [Prof. Yefeng Zheng](https://sites.google.com/site/yefengzheng/) and [Prof. Hong Wang](https://hongwang01.github.io/)
 
 ### [Multimedia Creativity Lab (MMLab), HKUST](https://mmlab-hkust.github.io/)
 
+Advisor: [Prof. Anyi Rao](https://anyirao.com/)
+
 
 ### [VIP Lab, HKUSTGZ](https://sites.google.com/site/indexlzhu/team)
+
+Advisor: [Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home?authuser=0) and [Dr. Yijun Yang](https://yijun-yang.github.io/)
 
 
 ## Selected Publications
