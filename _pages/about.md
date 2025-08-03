@@ -170,3 +170,8 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
 * Excellent Conclusion of National College Students’ Innovation and Entrepreneurship Training Program, 2021
 * Outstanding graduate of Zhenhai High School of Zhejiang, 2018
 
+## Professional Activities
+
+Conference Reviewer: NeurIPS, CVPR, ICCV, ECCV, ACM MM, AAAI, MICCAI.
+
+Journal Reviewer: TMI
