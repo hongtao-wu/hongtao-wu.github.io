@@ -71,7 +71,8 @@ B.Eng. in Measurement & Control Technology and Instruments, Sep 2018 - Jul 2022.
 
 ### [Medical Artificial Intelligence Laboratory, Westlake University](https://medai.lab.westlake.edu.cn/)
 
-Visiting Student
+
+### [Multimedia Creativity Lab (MMLab), HKUST](https://mmlab-hkust.github.io/)
 
 
 
