@@ -169,20 +169,21 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
 * Outstanding graduate of Zhenhai High School of Zhejiang, 2018
 
 ## Professional Activities
+**Paper Reviewer:**
 
-**Conference Reviewer**: CVPR, ICCV, ECCV, ACM MM, AAAI, MICCAI.
+* **Conference**: CVPR, ICCV, ECCV, ACM MM, AAAI, MICCAI.
 
-**Journal Reviewer**: TMI
+*  **Journal**: TMI
 
 **Teaching Assistant**:
 
 **HKUST(GZ)**
 
-2023-2024 Summer: The Red Bird Challenge Camp
+* 2023-2024 Summer: The Red Bird Challenge Camp
 
 **CUHK**
 
-2025-2026 Fall: Digital Image Processing
+* 2025-2026 Fall: Digital Image Processing
 
 ## Acknowledgements
 
