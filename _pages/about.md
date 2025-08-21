@@ -170,9 +170,19 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
 
 ## Professional Activities
 
-Conference Reviewer: CVPR, ICCV, ECCV, ACM MM, AAAI, MICCAI.
+**Conference Reviewer**: CVPR, ICCV, ECCV, ACM MM, AAAI, MICCAI.
 
-Journal Reviewer: TMI
+**Journal Reviewer**: TMI
+
+**Teaching Assistant**:
+
+**HKUST(GZ)**
+
+2023-2024 Summer: The Red Bird Challenge Camp
+
+**CUHK**
+
+2025-2026 Fall: Digital Image Processing
 
 ## Acknowledgements
 
