@@ -32,7 +32,7 @@ Thanks for your reading! Welcome to contact me about research collaboration, ple
 ## News
 
 * [08/2025]  I start my Ph.D. journey at CUHK AIM Group.
-* [07/2025] Three papers accepted by ACM MM 2025 with Oral presentation and Student Travel Award.
+* [07/2025] Four papers accepted by ACM MM 2025 with Oral presentation and Student Travel Award.
 * [07/2025] One paper accepted by ACM UIST 2025 with Oral presentation.
 * [02/2025] One paper accepted by CVPR 2025.
 * [07/2024] I passed my oral defense for the M.Phil. degree.
