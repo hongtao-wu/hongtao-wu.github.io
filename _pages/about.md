@@ -32,7 +32,7 @@ Thanks for your reading! Welcome to contact me about research collaboration, ple
 ## News
 
 * [08/2025]  I start my Ph.D. journey at CUHK AIM Group.
-* [07/2025] Three papers accepted by ACM MM 2025 with Oral presentation.
+* [07/2025] Three papers accepted by ACM MM 2025 with Oral presentation and Student Travel Award.
 * [07/2025] One paper accepted by ACM UIST 2025 with Oral presentation.
 * [02/2025] One paper accepted by CVPR 2025.
 * [07/2024] I passed my oral defense for the M.Phil. degree.
@@ -163,6 +163,7 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
 
 * PG Scholarship of CUHK, 2025-2028
 * PG Scholarship of HKUST(GZ), 2022-2024
+* ACM Multimedia SIGMM Student Travel Award, 2025
 * Oral Presentation (3.97%) in ACM International Conference on Multimedia (ACM MM), 2024
 * First-Class Scholarship of Tianjin University, 2022
 * Excellent Conclusion of National College Students’ Innovation and Entrepreneurship Training Program, 2021
