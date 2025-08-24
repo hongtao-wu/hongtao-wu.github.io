@@ -164,7 +164,7 @@ User Interface Software and Technology (UIST), 2025. (Oral) [[code]](https://git
 * PG Scholarship of CUHK, 2025-2028
 * PG Scholarship of HKUST(GZ), 2022-2024
 * ACM Multimedia SIGMM Student Travel Award, 2025
-* Oral Presentation (3.97%) in ACM International Conference on Multimedia (ACM MM), 2024
+* Oral Presentation Award (3.97%) in ACM International Conference on Multimedia (ACM MM), 2024
 * First-Class Scholarship of Tianjin University, 2022
 * Excellent Conclusion of National College Students’ Innovation and Entrepreneurship Training Program, 2021
 * Outstanding graduate of Zhenhai High School of Zhejiang, 2018
